@@ -1,0 +1,20 @@
+{
+  "name": "react-draggable-todolist",
+  "version": "1.0.0",
+  "description": "React Draggable & Sortable Todo-List  ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huiwenhw/react-draggable-todolist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huiwenhw/react-draggable-todolist/issues"
+  },
+  "homepage": "https://github.com/huiwenhw/react-draggable-todolist#readme"
+}
