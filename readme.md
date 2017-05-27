@@ -1,8 +1,8 @@
-My Project
+Project
 ---
 
-Welcome.
-
+Welcome. 
+This project is built following this tutorial: http://andrewhfarmer.com/build-your-own-starter/#0-intro
 
 
 Usage
